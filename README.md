@@ -7,7 +7,7 @@ Software Developer | Flutter Developer | Penetartion Tester
 Software Engineer | Flutter Developer | Penetration Tester. Flutter developer and Software Engineer, develop mobile and web apps.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Check My LinkedIn]([https://www.linkedin.com/in/muhammedabushadi/])
+* 🖥️  See my portfolio at [Check My LinkedIn](https://www.linkedin.com/in/muhammedabushadi/)
 * ✉️  You can contact me at [muhammed.samir.abushadi@gamil.com](mailto:muhammed.samir.abushadi@gamil.com)
 * 🚀  I'm currently working on FMS-Tech Apps
 

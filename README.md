@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammed Shadi
+Muhammed Shadi
 ===============================
 
 Software Developer | Flutter Developer | Penetartion Tester

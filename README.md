@@ -30,8 +30,4 @@ Software Engineer | Flutter Developer | Penetration Tester. Flutter developer an
 <a href="https://www.github.com/MuhammedShadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammedabushadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MuhammedShadi"><img src="https://github-readme-stats.vercel.app/api?username=MuhammedShadi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammedShadi's GitHub stats" /></a>
-
 <a href="http://www.github.com/MuhammedShadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedShadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

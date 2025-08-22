@@ -4,8 +4,6 @@ Muhammed Shadi
 Software Developer | Mobile Developer 
 -----------------------------------------------------------
 
-Software Engineer | Flutter Developer | Penetration Tester. Flutter developer and Software Engineer, develop mobile and web apps.
-
 * 🖥️  See my portfolio at [Check My LinkedIn](https://www.linkedin.com/in/muhammedabushadi/)
 * 🚀  I'm currently working on FMS-Tech 
 

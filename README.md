@@ -1,7 +1,7 @@
 Muhammed Shadi
 ===============================
 
-Software Developer | Flutter Developer | Penetartion Tester
+Software Developer | Mobile Developer 
 -----------------------------------------------------------
 
 Software Engineer | Flutter Developer | Penetration Tester. Flutter developer and Software Engineer, develop mobile and web apps.
